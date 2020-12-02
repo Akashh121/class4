@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.icon-area ul{
+list-style: none;
+} 
+
+.icon-area ul li{
+    display: inline-block;
+}
+
+.icon-area ul li a{
+    background: rgb(89, 0, 255);
+    color: seashell;
+    padding: 25px 35px;
+    display: block;
+    font-size:30px;
+    border-radius: 20px;
+}
+
+.icon-area ul li a:hover{
+    background: springgreen;
+    color: slategrey;
+    border-radius: 50%;
+}
+
+.icon-area2 ul{ 
+    list-style: none;
+
+}
+
+.icon-area2 ul li{
+    display: inline-block;
+}
+
+.icon-area2 ul li a{
+    background: rgb(2, 129, 45);
+    color: black;
+    padding: 25px 33px;
+    display: block;
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.icon-area2 ul li a:hover{
+    background: blue;
+    color: crimson;
+    border-radius: 50%;
+}
+
+.icon-area3 ul{
+    list-style: none;
+    } 
+    
+    .icon-area3 ul li{
+        display: inline-block;
+    }
+    
+    .icon-area3 ul li a{
+        background: rgb(209, 42, 50);
+        color: rgb(9, 109, 101);
+        padding: 25px 35px;
+        display: block;
+        font-size:30px;
+        border-radius: 20px;
+    }
+    
+    .icon-area3 ul li a:hover{
+        background: springgreen;
+        color: slategrey;
+        border-radius: 50%;
+    }
+
+    .icon-area4 ul{ 
+        list-style: none;
+    
+    }
+    
+    .icon-area4 ul li{
+        display: inline-block;
+    }
+    
+    .icon-area4 ul li a{
+        background: rgb(96, 158, 14);
+        color: rgb(243, 234, 234);
+        padding: 25px 34px;
+        display: block;
+        font-size: 30px;
+        border-radius: 20px;
+    }
+    
+    .icon-area4 ul li a:hover{
+        background: blue;
+        color: crimson;
+        border-radius: 50%;
+    }
+    
+    .icon-area5 ul{
+        list-style: none;
+        } 
+        
+        .icon-area5 ul li{
+            display: inline-block;
+        }
+        
+        .icon-area5 ul li a{
+            background: rgb(255, 0, 0);
+            color: seashell;
+            padding: 25px 35px;
+            display: block;
+            font-size:30px;
+            border-radius: 20px;
+        }
+        
+        .icon-area5 ul li a:hover{
+            background: springgreen;
+            color: slategrey;
+            border-radius: 50%;
